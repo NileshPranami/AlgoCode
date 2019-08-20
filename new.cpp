@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+// Hey Nilesh, This code is written by Deepak
 struct node{
     int number;
     node *next;
